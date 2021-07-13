@@ -1,5 +1,13 @@
-.name {
+.heading {
   font-weight: bold;
-  color: red;
+  color: black;
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+  color: black;
+  font: message-box;
+  text-align: center;
+  font-weight: bold;
 }
