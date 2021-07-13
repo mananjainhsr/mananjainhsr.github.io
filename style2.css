@@ -4,3 +4,17 @@ img.inspire {
   border-radius: 200px;
   float: centre;
 }
+img.profile {
+  border-radius: 200px;
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  margin: 5px;
+}
+
+table {
+  border-spacing: 2;
+  padding: 2px;
+  border: 2px;
+  border: black;
+}
