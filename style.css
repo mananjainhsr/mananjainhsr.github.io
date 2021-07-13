@@ -5,6 +5,14 @@
   text-align: center;
 }
 
+ {
+  background-image: linear-gradient(
+    90.5deg,
+    rgba(255, 207, 139, 0.5) 1.1%,
+    rgba(255, 207, 139, 1) 81.3%
+  );
+}
+
 h3 {
   color: black;
   font: message-box;
@@ -25,4 +33,8 @@ h3 {
   margin-right: 60px;
   width: 50%;
   float: right;
+}
+
+.para {
+  padding: 15px;
 }
